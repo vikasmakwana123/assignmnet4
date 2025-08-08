@@ -1,4 +1,6 @@
 This is my college project prototype for healthcare management by Vikas Makwana
+Prototype Link:-
+https://myhealthcaremanagement.netlify.app/
 
 
 
